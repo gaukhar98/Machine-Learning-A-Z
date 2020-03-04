@@ -1,0 +1,9 @@
+Prerequisites: What is the P-Value?
+Hi guys,
+
+before we get into Backward Elimination, make sure to be introduced to the p-value and have a basic understanding of how it works. By looking at almost all the explanations of the p-value on the internet, we have selected for you the two best ones:
+
+Explanation 1
+	https://www.wikihow.com/Calculate-P-Value
+Explanation 2
+	https://www.mathbootcamps.com/what-is-a-p-value/

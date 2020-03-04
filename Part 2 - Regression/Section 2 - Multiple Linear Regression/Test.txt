@@ -1,0 +1,10 @@
+1. Which of the following formula is not a multiple linear regression model ?
+	Salary = a * Experience + b * Age^2
+2. Which library to import in Python for Multiple Linear Regression ?
+	LinearRegression
+3. In Python, the code to create a multiple linear regressor is exactly the same as the one to create a simple linear regressor. 
+	True
+4. In R, which multiple linear regression equation can we input in the formula parameter ?
+	Salary ~ .
+5. We should use Multiple Linear Regression to predict a dependent variable that is growing exponentially with time.
+	No

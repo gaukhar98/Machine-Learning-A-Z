@@ -1,0 +1,10 @@
+1. We should use Simple Linear Regression to predict the winner of a football game
+	False
+2. What is the class used in Python to create a simple linear regressor ?
+	LinearRegression
+3. What is the function used in R to create a simple linear regressor ?
+	lm
+4. Which of the following formulas is not a simple linear regression model ?
+	Salary = a * Experience + b * Age
+5. What is the correct way of writing a simple linear regression equation in the formula parameter in R ?
+	Salary ~ YearsExperience
