@@ -20,7 +20,6 @@ X[:, 1:3]=missingvalues.transform(X[:, 1:3])
 
 # Encoding categorical data
 # Encoding the Independent Variable
-from sklearn.preprocessing import OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 #labelencoder_X = LabelEncoder()
@@ -34,7 +33,6 @@ from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 ct = ColumnTransformer([('encoder', OneHotEncoder(), [0])], remainder='passthrough')
 X = np.array(ct.fit_transform(X), dtype=np.float)
 # Encoding Y data
-from sklearn.preprocessing import LabelEncoder
 y = LabelEncoder().fit_transform(y)
 # Splitting the dataset into the Training set and Test set
 from sklearn.model_selection import train_test_split
